@@ -1,0 +1,39 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+li {
+	float: left;
+	display: block;
+	padding: 8px;
+}
+
+#sign-in {
+	width: 69.3px;
+	height: 29.6px;
+}
+
+#app-icon {
+	width: 30px;
+	height: 30px;
+}
+
+#logo {
+	width: 400px;
+	height: 280px;
+}
+
+#search-bar {
+	width:630px;
+	height:270px;
+}
+
+.container {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
