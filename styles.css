@@ -35,10 +35,11 @@ li {
 
 #search-bar {
 	width:50%;
-	height:270px;
+	height:200px;
   margin-left: auto;
   margin-right: auto;
   display: block;
+  margin-top: -2%;
 }
 
 .container {
@@ -47,7 +48,7 @@ li {
 }
 
 button {
-
+  padding-bottom: 0%;
 }
 
 
