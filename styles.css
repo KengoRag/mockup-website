@@ -3,31 +3,31 @@ html,body {
 }
 
 ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
 }
 
 li {
-	float: left;
-	display: block;
-	padding: 8px;
+  float: left;
+  display: block;
+  padding: 8px;
 }
 
 #sign-in {
-	width: 69.3px;
-	height: 29.6px;
+  width: 69.3px;
+  height: 29.6px;
 }
 
 #app-icon {
-	width: 30px;
-	height: 30px;
+  width: 30px;
+  height: 30px;
 }
 
 #logo {
-	width: 500px;
-	height: 280px;
+  width: 500px;
+  height: 280px;
   margin-left: 13%;
   margin-top: 6%;
 
@@ -45,7 +45,7 @@ button {
 }
 
 #footer {
-	margin-top: 10%;
+  margin-top: 10%;
 }
 
 input[type=text] {
@@ -54,21 +54,19 @@ input[type=text] {
 }
 
 #search {
-	margin-left: auto;
-	margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a {
-	text-decoration: none;
-	color: black;
+  text-decoration: none;
+  color: black;
 }
 
 #footer {
-	margin-top: 20%;
-	background-color: #F0F0F0;
-	border: 1px solid black;
+  margin-top: 25%;
+  background-color: #F0F0F0;
+  border: 1px solid black;
 }
 
-hr {
-	margin-top: 21%;
-}
+
