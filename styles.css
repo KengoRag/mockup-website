@@ -28,19 +28,12 @@ li {
 #logo {
 	width: 500px;
 	height: 280px;
-  margin-left: 20%;
+  margin-left: 13%;
   margin-top: 6%;
 
 }
 
-#search-bar {
-	width:50%;
-	height:200px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  margin-top: -2%;
-}
+/* THIS IS WHERE THE SEARCH BAR IMG CSS USED TO BE BETWEEN CONTAINER AND LOGO */
 
 .container {
   width: 100%;
@@ -51,4 +44,30 @@ button {
   padding-bottom: 0%;
 }
 
+#footer {
+	margin-top: 10%;
+}
 
+input[type=text] {
+   width: 500px;
+   height: 25px;
+}
+
+#search {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#footer {
+	margin-top: 0%;
+	background-color: gray;
+}
+
+hr {
+	margin-top: 21%;
+}
