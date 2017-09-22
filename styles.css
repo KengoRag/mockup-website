@@ -64,8 +64,9 @@ a {
 }
 
 #footer {
-	margin-top: 0%;
-	background-color: gray;
+	margin-top: 20%;
+	background-color: #F0F0F0;
+	border: 1px solid black;
 }
 
 hr {
