@@ -44,10 +44,6 @@ button {
   padding-bottom: 0%;
 }
 
-#footer {
-  margin-top: 10%;
-}
-
 input[type=text] {
    width: 500px;
    height: 25px;
@@ -64,9 +60,10 @@ a {
 }
 
 #footer {
-  margin-top: 25%;
+  margin-top: 30%;
   background-color: #F0F0F0;
   border: 1px gray;
+  height: 60px;
 }
 
 
